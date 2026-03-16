@@ -1,0 +1,16 @@
+numpy<2
+pandas<2.3
+pyarrow
+fastparquet
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+prophet
+geopandas
+shapely
+jupyter
+scipy
+joblib
+plotly
